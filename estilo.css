@@ -1,0 +1,36 @@
+
+body{
+	background-color: greey;
+
+}
+
+aside{
+	margin: 618px 0px 0px 0px;
+	background-color: #3C1D3D;
+	color: #F2FFFC;
+    text-align:center;
+    padding: 20px;
+    font-family: "Open Sans Condensed", sans-serif;
+}
+
+footer{
+	background-color: #000;
+	color: #F2FFFC;
+    padding: 20px;
+}
+nav h1{
+	font-size: 30px;
+    margin-bottom: 25px;
+}
+
+main a{
+	color: inherit;
+}
+
+aside a {
+	color: inherit;
+    font-family: "Open Sans Condensed",sans-serif;
+}
+.icones-sociais li{
+    display: inline-block;
+}
